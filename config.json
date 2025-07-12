@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "name": "basic",
+      "task": 20
+    },
+    {
+      "name": "objects",
+      "task": 0
+    }
+  ],
+  "tests": [
+    {
+      "time": 1800,
+      "blocks": [
+        {
+          "block": "basic",
+          "task": 5
+        }
+      ]
+    }
+  ]
+}
