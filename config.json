@@ -2,7 +2,7 @@
   "blocks": [
     {
       "name": "basic",
-      "task": 20
+      "task": 40
     },
     {
       "name": "objects",
@@ -15,7 +15,7 @@
       "blocks": [
         {
           "block": "basic",
-          "task": 5
+          "task": 4
         }
       ]
     }
