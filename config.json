@@ -18,6 +18,19 @@
           "task": 4
         }
       ]
+    },
+    {
+      "time": 1800,
+      "blocks": [
+        {
+          "block": "basic",
+          "task": 1
+        },
+        {
+          "block": "objects",
+          "task": 3
+        }
+      ]
     }
   ]
 }
