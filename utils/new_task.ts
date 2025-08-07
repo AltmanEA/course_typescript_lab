@@ -27,7 +27,7 @@ fs.writeFileSync(
 );
 const test = fs.readFileSync("./utils/template.test", "utf8");
 const test_lines = test.split("\n");
-test_lines[2] = "\tРеализовать тесты для функции "+ fun_name + " из файла " + block_name + block.task + "." + ext
+test_lines[2] = "\tРеализовать тесты для класса "+ fun_name + " из файла " + block_name + suffix + "." + ext
 fs.writeFileSync(
     `./src/${block_name}/${block_name}${suffix}.test.${ext}`, 
     test_lines.join("\n")
