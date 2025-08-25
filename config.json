@@ -11,6 +11,10 @@
     {
       "name": "classes",
       "task": 18
+    },
+    {
+      "name": "model",
+      "task": 20
     }
   ],
   "tests": [
@@ -50,6 +54,27 @@
         {
           "block": "classes",
           "task": 2
+        }
+      ]
+    },
+    {
+      "time": 1800,
+      "blocks": [
+        {
+          "block": "basic",
+          "task": 1
+        },
+        {
+          "block": "objects",
+          "task": 1
+        },
+        {
+          "block": "classes",
+          "task": 1
+        },
+        {
+          "block": "model",
+          "task": 1
         }
       ]
     }
