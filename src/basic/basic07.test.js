@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции factorial из файла basic07.js
-*/
-
 import { test, expect } from 'vitest'
 import { factorial } from './basic07'
 

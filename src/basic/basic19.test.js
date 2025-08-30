@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции sum_positive из файла basic19.js
-*/
-
 import { test, expect } from 'vitest'
 import { sum_positive } from './basic19'
 

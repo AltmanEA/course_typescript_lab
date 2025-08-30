@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-  Реализовать тесты для функции grade_student из файла basic05.js 
-*/
-
 import { test, expect } from 'vitest'
 import { grade_student } from './basic05'
 

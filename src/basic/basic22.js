@@ -4,6 +4,5 @@
 */
 
 export function palindrome_check(word) {
-		
 	return true;
 }

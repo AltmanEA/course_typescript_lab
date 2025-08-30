@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции filter из файла basic36.js
-*/
-
 import { test, expect } from 'vitest'
 import { filter } from './basic36'
 

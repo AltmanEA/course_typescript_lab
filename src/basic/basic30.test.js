@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции extractUniqueValues из файла basic30.js
-*/
-
 import { test, expect } from 'vitest'
 import { extractUniqueValues } from './basic30'
 

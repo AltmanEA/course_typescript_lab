@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-  Реализовать тесты для функции max из файла basic01.js 
-*/
-
 import { test, expect } from 'vitest'
 import { max } from './basic01'
 

@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции map из файла basic37.js
-*/
-
 import { test, expect } from 'vitest'
 import { map } from './basic37'
 

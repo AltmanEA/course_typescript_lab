@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции zeroRowColumn из файла basic33.js
-*/
-
 import { test, expect } from 'vitest'
 import { zeroRowColumn } from './basic33'
 

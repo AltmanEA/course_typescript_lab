@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции transposeMatrix из файла basic31.js
-*/
-
 import { test, expect } from 'vitest'
 import { transposeMatrix } from './basic31'
 

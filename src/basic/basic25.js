@@ -3,6 +3,5 @@
 */
 
 export function removeFirstOccurrence (arr, value) {
-	
   return arr
 }

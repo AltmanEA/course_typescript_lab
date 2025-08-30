@@ -3,7 +3,6 @@
 */
 
 export function replace_word(sentence, old_word, new_word) {
-    
     return "";
 }
 

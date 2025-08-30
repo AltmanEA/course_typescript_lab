@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции matrixMultiplication из файла basic32.js
-*/
-
 import { test, expect } from 'vitest'
 import { matrixMultiplication } from './basic32'
 

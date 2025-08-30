@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции insertAtPosition из файла basic27.js
-*/
-
 import { test, expect } from 'vitest'
 import { insertAtPosition } from './basic27'
 

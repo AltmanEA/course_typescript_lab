@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции replace_word из файла basic24.js
-*/
-
 import { test, expect } from 'vitest'
 import { replace_word } from './basic24'
 

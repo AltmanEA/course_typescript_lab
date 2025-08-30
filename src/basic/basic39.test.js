@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции all из файла basic39.js
-*/
-
 import { test, expect } from 'vitest'
 import { all } from './basic39'
 

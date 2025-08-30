@@ -3,7 +3,6 @@
 */
 
 export function average(arr) {
-
 	return 0
 }
 

@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции average из файла basic13.js
-*/
-
 import { test, expect } from 'vitest'
 import { average } from './basic13'
 

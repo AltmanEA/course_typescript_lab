@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции concatenate_strings из файла basic20.js
-*/
-
 import { test, expect } from 'vitest'
 import { concatenate_strings } from './basic20'
 

@@ -1,7 +1,3 @@
-/*   Импортировать из vite функции test и expect.
-	Реализовать тесты для функции palindrome_check из файла basic22.js
-*/
-
 import { test, expect } from "vitest";
 import { palindrome_check } from "./basic22";
 

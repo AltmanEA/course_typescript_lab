@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции reverse_list из файла basic16.js
-*/
-
 import { test, expect } from 'vitest'
 import { reverse_list } from './basic16'
 

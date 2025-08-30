@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции count_vowels из файла basic10.js.  
-*/
-
 import { test, expect } from 'vitest'
 import { count_vowels } from './basic10'
 

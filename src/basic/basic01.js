@@ -2,4 +2,6 @@
   Реализовать функцию, которая возвращает большее из двух чисел.
 */
 
-export const max = (a, b) => a
+export function max(a, b) {
+  return a 
+}

@@ -8,7 +8,7 @@
 */
 
 export function grade_student(score) {
-      return 'неудовлетворительно'
+  return 'неудовлетворительно'
 }
 
 

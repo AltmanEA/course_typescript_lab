@@ -5,6 +5,5 @@
 */
 
 export function strip_special_chars(text) {
-
 	return "";
 }

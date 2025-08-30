@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции strip_special_chars из файла basic23.js
-*/
-
 import { test, expect } from 'vitest'
 import { strip_special_chars } from './basic23'
 

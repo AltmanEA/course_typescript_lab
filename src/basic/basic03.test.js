@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-  Реализовать тесты для функции areEqual из файла basic03.js 
-*/
-
 import { test, expect } from 'vitest'
 import { areEqual } from './basic03'
 

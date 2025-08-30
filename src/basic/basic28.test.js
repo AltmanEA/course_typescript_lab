@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции removeDuplicates из файла basic28.js
-*/
-
 import { test, expect } from 'vitest'
 import { removeDuplicates } from './basic28'
 

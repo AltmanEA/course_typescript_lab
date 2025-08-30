@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции fibonacci из файла basic09.js
-*/
-
 import { test, expect } from 'vitest'
 import { fibonacci } from './basic09'
 

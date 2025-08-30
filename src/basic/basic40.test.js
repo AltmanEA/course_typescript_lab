@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции find из файла basic40.js
-*/
-
 import { test, expect } from 'vitest'
 import { find } from './basic40'
 

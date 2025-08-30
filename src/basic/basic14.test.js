@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции even_elements из файла basic14.js
-*/
-
 import { test, expect } from 'vitest'
 import { even_elements } from './basic14'
 

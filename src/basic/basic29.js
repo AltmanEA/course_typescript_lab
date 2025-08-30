@@ -3,6 +3,5 @@
 */
 
 export function rotateArrayLeft(arr) {
-
   return arr;
 }

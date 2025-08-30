@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции sum_digits из файла basic08.js
-*/
-
 import { test, expect } from 'vitest'
 import { sum_digits } from './basic08'
 

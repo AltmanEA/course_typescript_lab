@@ -3,6 +3,5 @@
 */
 
 export function even_elements(arr) {
-
     return [];
 }

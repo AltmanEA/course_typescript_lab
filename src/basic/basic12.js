@@ -3,7 +3,6 @@
 */
 
 export function find_max(arr) {
-
     return 0;
 }
 

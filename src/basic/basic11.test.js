@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-	Реализовать тесты для функции is_prime из файла basic11.js
-*/
-
 import { test, expect } from 'vitest'
 import { is_prime } from './basic11'
 

@@ -1,8 +1,3 @@
-/* 
-  Импортировать из vite функции test и expect.
-  Реализовать тесты для longerString функции из файла basic02.js 
-*/
-
 import { test, expect } from 'vitest'
 import { longerString } from './basic02'
 
